@@ -16,7 +16,7 @@ Lunar – A WordPress plugin, that automatically converts images to WooCommerce 
 
 Features: 
 
-1. Automatically convert images to WooCommerce products (on my machine there were over 100 prducts created winthin one minute)
+1. Automatically convert images to WooCommerce products (on my machine there were over 100 products created within one minute)
 1. Quick edit product title, price, description. 
 1. The product description is made out of image size, image file size, description and EXIF data.
 
