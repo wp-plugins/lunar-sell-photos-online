@@ -1,4 +1,4 @@
-=== Hero - Creative Portfolio ===
+=== Lunar - Sell photos online ===
 Contributors: sakurapixel
 Donate link: http://sakuraplugins.com/donate/
 Tags: exif, exif data, gallery, album, photos to WooCommerce, WooCommerce, sell photos, photography
