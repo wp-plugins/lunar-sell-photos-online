@@ -4,7 +4,7 @@ Plugin Name: Lunar - WordPress photography
 Plugin URI: http://sakuraplugins.com/
 Description: Lunar, a WordPress photography plugin!
 Author: SakuraPlugins
-Version: 1.1.0
+Version: 1.2.0
 Author URI: http://sakuraplugins.com/
 */
 define('LN_TEMPPATH', plugins_url('', __FILE__));
