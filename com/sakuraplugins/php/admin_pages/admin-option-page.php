@@ -86,7 +86,7 @@ class LNClass_OptionPage extends LNClass_GenericSettingsPage {
 		  		<h2 class="optionsSecondTitle">Advertising Pro Version</h2>
 		  		<div class="hLineTitle"></div>
 		  		<p class="sk_notice"><strong>NOTE!</strong> If you decide to buy and install the Pro version, please make sure you deactivate the free version first.</p>
-		  		<p>There is a pro version of this plugin, it costs $5 and it's available at <a target="_blank" href="http://www.sakuraplugins.com/products-list/lunar-sell-photos-online-wordpress-photography-plugin/">SakuraPlugins.com</a></p>
+		  		<p>There is a pro version of this plugin, it's available at <a target="_blank" href="http://www.sakuraplugins.com/products-list/lunar-sell-photos-online-wordpress-photography-plugin/">SakuraPlugins.com</a></p>
 		  		<p>This plugin's main purpose is to automatically convert images to WooCommerce products, you can use the default WooCommerce shop page to display the products, however, for the Pro version I've added functionality that helps display the products in a more fancy way.</p>
 		  		<p><b>Main Pro features</b></p>
 		  		<ol style="list-style-type: disc;">

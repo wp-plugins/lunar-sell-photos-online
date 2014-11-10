@@ -4,7 +4,7 @@ Donate link: http://sakuraplugins.com/donate/
 Tags: exif, exif data, gallery, album, photos to WooCommerce, WooCommerce, sell photos, photography
 Requires at least: 3.9
 Tested up to: 4.0
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,7 +28,7 @@ Features:
 
 [VIDEO SHOWCASE](https://www.youtube.com/watch?v=zJMfZHRu9IA) 
 
-Please note that there is also a $5 Pro version of this plugin. This plugin's main purpose is to automatically convert images to WooCommerce products, you can use the default WooCommerce shop page to display the products, however, for the Pro version I've added functionality that helps display the products in a more fancy way.
+Please note that there is also a Pro version of this plugin. This plugin's main purpose is to automatically convert images to WooCommerce products, you can use the default WooCommerce shop page to display the products, however, for the Pro version I've added functionality that helps display the products in a more fancy way.
 
 
 == Installation ==
